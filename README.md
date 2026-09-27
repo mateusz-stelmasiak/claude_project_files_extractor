@@ -1,5 +1,5 @@
 # claude_project_files_extractor
-Allows the user to extract all files saved in a claude.ai project
+Allows the user to extract all files saved in a claude.ai project. An edit of a for existing code found here - https://greasyfork.org/en/scripts/541467-claude-project-files-extractor
 
 Just use this https://www.tampermonkey.net/ script:
 ```
@@ -14,8 +14,8 @@ Just use this https://www.tampermonkey.net/ script:
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
 // @grant        none
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/541467/Claude%20Project%20Files%20Extractor.user.js
-// @updateURL https://update.greasyfork.org/scripts/541467/Claude%20Project%20Files%20Extractor.meta.js
+// @downloadURL https://github.com/mateusz-stelmasiak/claude_project_files_extractor/blob/main/source.js
+// @updateURL https://github.com/mateusz-stelmasiak/claude_project_files_extractor/blob/main/source.js
 // ==/UserScript==
 
 (function() {
