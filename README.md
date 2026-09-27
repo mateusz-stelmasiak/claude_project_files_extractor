@@ -1,4 +1,6 @@
 # claude_project_files_extractor
+<img width="3837" height="1985" alt="image" src="https://github.com/user-attachments/assets/aa82bde2-9f2f-4b96-a07a-b4cf63573e5c" />
+
 Allows the user to extract all files saved in a claude.ai project. An edit of a for existing code found here - https://greasyfork.org/en/scripts/541467-claude-project-files-extractor
 
 Just use this https://www.tampermonkey.net/ script:
